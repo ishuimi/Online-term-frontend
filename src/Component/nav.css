@@ -1,0 +1,25 @@
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+
+.dropdown-item{
+    color: black !important;
+    
+  
+}
+
+.dropdown-item:hover{
+    color:black !important;
+    text-emphasis-color: #68D8D6;
+    background-color :#68D8D6;
+    opacity: 0.5;
+}
+
+.color-nav{
+    background-color: #68D8D6;
+    color: black;
+}
+
+.color-drop{
+    background-color: #EFFBFB;
+}
